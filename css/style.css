@@ -1,0 +1,42 @@
+table1, table2{
+    
+    width: 800px;
+    height: 400px;
+    
+}
+
+table.coluna{
+    background-color: blue;
+ 
+}
+
+
+td {
+    text-align: center;
+}
+
+
+#main table td{
+    width:10%;
+    vertical-align: top;
+    padding:0 10px 0 10px;
+    max-width: 1280px;
+    margin: 0 auto;
+    font-family:Arial, sans-serif;
+    font-weight: bolder;
+
+}
+ul#menu li {
+    display:inline-block;
+    font-size:larger;
+    padding-left:15px;
+    position:relative;
+    top:-200px;
+    left:500px;    
+}
+
+ul#menu a {
+    color:white;
+    font-family:Arial, sans-serif; 
+    
+}
